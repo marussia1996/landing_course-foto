@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,KAAK,CAAC;EACJ,MAAM,EAAE,MAAM;EACd,SAAS,ECHA,MAAM;EDIf,WAAW,ECHN,OAAO,EAAE,UAAU;CDIzB",
+    "sources": [
+        "../scss/blocks/page.scss",
+        "../scss/_variables.scss"
+    ],
+    "names": [],
+    "file": "page.css"
+}
